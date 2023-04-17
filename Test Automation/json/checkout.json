@@ -1,0 +1,92 @@
+[
+  {
+    "SN": 1,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": 9801977888,
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 2,
+    "Mode": "tests",
+    "TransactionType": 1,
+    "Merchant_id": 9801977888,
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 3,
+    "Mode": "tests",
+    "TransactionType": "(blank)",
+    "Merchant_id": 9801977888,
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 4,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": 980197788,
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 5,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": "980197788a",
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 6,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": "asdfghjkll",
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 7,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": 9801977888,
+    "Description": "laptop",
+    "Amount": "abcd",
+    "Invoice": 1235,
+    "Trace": 123456
+  },
+  {
+    "SN": 8,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": 9801977888,
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 12345,
+    "Trace": "asd"
+  },
+  {
+    "SN": 9,
+    "Mode": "test",
+    "TransactionType": 1,
+    "Merchant_id": 9801977888,
+    "Description": "laptop",
+    "Amount": 200,
+    "Invoice": 12345,
+    "Trace": "(blank)"
+  }
+]
